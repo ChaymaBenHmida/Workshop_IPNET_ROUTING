@@ -3,7 +3,6 @@ Workshop A: Network Management of BIAT Bank
 "BIAT" has four remote branches in the Grand Tunis governorate. All these branches are connected to the headquarters, which represents the backbone. You are the network administrator of this company and you are required to configure the network according to the requirements of the company's manager. The various technical requirements are listed below:
 
 1.Four distinct branches broken down as follows:
-
 Zone A, representing the "Assurances BIAT" branch
 Zone B, representing the "BIAT Consulting" branch
 Zone C, representing the "BIAT Capital" branch
